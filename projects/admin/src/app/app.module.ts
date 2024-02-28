@@ -7,8 +7,8 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { RouterModule } from '@angular/router';
 import { FormsModule, ReactiveFormsModule } from '@angular/forms';
 import { HttpClientModule } from '@angular/common/http';
-import { MaterialModule } from './dashboard/material/material.module';
-import { LayoutComponent } from './layout/layout.component';
+import { MaterialModule } from './material/material.module';
+import { LayoutComponent } from './dashboard/layout/layout.component';
 
 @NgModule({
   declarations: [

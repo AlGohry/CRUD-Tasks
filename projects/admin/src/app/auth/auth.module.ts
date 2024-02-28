@@ -4,7 +4,7 @@ import { LoginComponent } from './components/login/login.component';
 import { FormsModule, ReactiveFormsModule } from '@angular/forms';
 import { HttpClientModule } from '@angular/common/http';
 import { AuthRoutingModule } from './auth-routing.module';
-import { MaterialModule } from '../dashboard/material/material.module';
+import { MaterialModule } from '../material/material.module';
 
 
 
